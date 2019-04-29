@@ -31,5 +31,5 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 public class AdminBootstrap {
     public static void main(String[] args) {
         new SpringApplicationBuilder(AdminBootstrap.class).run(args);    }
-    //test2
+    //test3
 }
